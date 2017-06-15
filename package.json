@@ -32,6 +32,27 @@
         }
       },
       "/Volumes/DATA/work/git/HookedAr"
+    ],
+    [
+      {
+        "raw": "react-native-message-bubble@git+https://github.com/nghia2080/react-native-hakba-bubble.git",
+        "scope": null,
+        "escapedName": "react-native-message-bubble",
+        "name": "react-native-message-bubble",
+        "rawSpec": "git+https://github.com/nghia2080/react-native-hakba-bubble.git",
+        "spec": "git+https://github.com/nghia2080/react-native-hakba-bubble.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:nghia2080/react-native-hakba-bubble.git",
+          "sshUrl": "git+ssh://git@github.com/nghia2080/react-native-hakba-bubble.git",
+          "httpsUrl": "git+https://github.com/nghia2080/react-native-hakba-bubble.git",
+          "gitUrl": "git://github.com/nghia2080/react-native-hakba-bubble.git",
+          "shortcut": "github:nghia2080/react-native-hakba-bubble",
+          "directUrl": "https://raw.githubusercontent.com/nghia2080/react-native-hakba-bubble/master/package.json"
+        }
+      },
+      "/Volumes/DATA/work/git/HookedAr"
     ]
   ],
   "_from": "git+https://github.com/nghia2080/react-native-hakba-bubble.git",
@@ -70,8 +91,8 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/nghia2080/react-native-hakba-bubble.git#f8266c4ec940099793802bc16d292211742f8267",
-  "_shasum": "4f335248595569e3bcc7b8751788f1a4a1e47928",
+  "_resolved": "git+https://github.com/nghia2080/react-native-hakba-bubble.git#de51d96e4774678a04222797384174657087ef1d",
+  "_shasum": "51d177a74a353cc751c2b80ff768fcbd1adcee5e",
   "_shrinkwrap": null,
   "_spec": "react-native-message-bubble@git+https://github.com/nghia2080/react-native-hakba-bubble.git",
   "_where": "/Volumes/DATA/work/git/HookedAr",
