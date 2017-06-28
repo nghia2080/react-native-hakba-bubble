@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Volumes/DATA/work/git/HookedAr/node_modules/react-native-message-bubble/android/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Volumes/DATA/work/git/HookedAr/node_modules/react-native-message-bubble/android/src/release/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/Nghiand/HookedArAnd/node_modules/react-native-message-bubble/android/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/Nghiand/HookedArAnd/node_modules/react-native-message-bubble/android/src/release/jniLibs"/></dataSet></merger>
